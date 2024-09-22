@@ -58,5 +58,5 @@ To check for linting issues, run:
 ### Instructions:
 
 1. Copy this content into a new `README.md` file in the root directory of your project.
-2. Replace placeholders like `https://github.com/yourusername/your-repo-name.git` with your actual repository link.
+2. Replace placeholders like `https://github.com/kazinayeem/node-ts-boilerplate.git` with your actual repository link.
 3. If you need to add additional instructions or information, feel free to modify this template as required.
